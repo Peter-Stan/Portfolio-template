@@ -151,6 +151,12 @@ p {
     border-radius: 150px;
 }
 
+
+  iframe {
+    border-radius: 50px;
+  }
+
+
 .headshot-container {
     display:flex;
     align-items:center;
